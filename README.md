@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Nauderick
 
 - 🔭 Buscando oportunidades na área de TI
-- 🌱 Estudando HTML, CSS & JavaScript, Node.js, Java, TailwindCSS, Angular 
+- 🌱 Estudando HTML, CSS & JavaScript, Node.js, TailwindCSS, Angular 
  
  <div align="center">
   <a href="https://github.com/Nauderick">
@@ -14,7 +14,6 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
 </div>
   
