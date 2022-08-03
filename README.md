@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Nauderick
 
-- 🔭 Buscando oportunidades na área de TI
-- 🌱 Estudando HTML, CSS & JavaScript, Node.js, TailwindCSS, Angular 
+- Buscando oportunidades na área de Front-End
+- Estudando HTML, CSS & JavaScript, Node.js, TailwindCSS, Angular 
  
  <div align="center">
   <a href="https://github.com/Nauderick">
